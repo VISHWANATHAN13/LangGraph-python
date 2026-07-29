@@ -1,0 +1,4 @@
+ipynb
+langchain
+langchain-google-genai
+dotenv
