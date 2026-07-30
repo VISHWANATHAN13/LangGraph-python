@@ -2,3 +2,7 @@ ipynb
 langchain
 langchain-google-genai
 dotenv
+# for postgres DB
+langgraph-checkpoint-postgres 
+psycopg-pool                  # for postgres DB
+install psycopg-binary          
